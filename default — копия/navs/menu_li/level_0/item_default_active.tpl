@@ -1,0 +1,1 @@
+<li class="{if $wrapper}li-nav-drop {/if}current"><a href="{$link}"{if $target} {$target}{/if}{if $wrapper} class="type-cat-arrw"{/if}><span>{$title}</span></a>{$wrapper}</li>

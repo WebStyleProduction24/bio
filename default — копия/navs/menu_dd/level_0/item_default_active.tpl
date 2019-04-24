@@ -1,0 +1,1 @@
+<dd class="current"><a href="{$link}">{$title}</a></dd>

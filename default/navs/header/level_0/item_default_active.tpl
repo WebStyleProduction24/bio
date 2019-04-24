@@ -1,0 +1,1 @@
+<li class="current"><a href="{$link}"{if $wrapper} class="type-cat-arrw"{/if}><span>{$title}</span></a>{$wrapper}</li>

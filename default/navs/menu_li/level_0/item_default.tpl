@@ -1,0 +1,1 @@
+<li{if $wrapper} class="li-nav-drop{if stristr($wrapper, 'current') === FALSE}{else:} current{/if}"{/if}><a href="{$link}"{if $target} {$target}{/if}{if $wrapper} class="type-cat-arrw"{/if}><span>{$title}</span></a>{$wrapper}</li>
