@@ -1,1 +1,0 @@
-<li class="current"><a href="{$link}"><span>{$title}</span></a></li>
