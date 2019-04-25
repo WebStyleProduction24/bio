@@ -1,1 +1,0 @@
-<div class="sblock-catalog-item-drop"><ul>{$wrapper}</ul></div>

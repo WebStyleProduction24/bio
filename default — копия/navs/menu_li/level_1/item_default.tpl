@@ -1,1 +1,0 @@
-<li><a href="{$link}"{if $target} {$target}{/if}>{$title}</a>{$wrapper}</li>

@@ -1,1 +1,0 @@
-<div class="header-nav-drop"><ul class="header-nav-droplist">{$wrapper}</ul></div>
