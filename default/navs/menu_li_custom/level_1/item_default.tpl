@@ -1,0 +1,1 @@
+<li class="header-menu__item"><a href="{$link}" class="header-menu__link">{$title}</a></li>

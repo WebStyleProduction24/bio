@@ -3432,7 +3432,7 @@ body {
   background: #fff;
   color: #292929;
   font-family: "Geometria", "Arial";
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 300;
   line-height: 17px; }
 
@@ -4166,7 +4166,7 @@ body {
         text-align: center;
         max-width: 100%; } }
   .slider__title {
-    font: 800 48px/1.2 'Geometria';
+    font: 800 32px/1.2 'Geometria';
     color: #fff;
     opacity: .6;
     text-transform: uppercase; }
