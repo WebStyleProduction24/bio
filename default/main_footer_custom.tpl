@@ -3,7 +3,7 @@
         <footer class="footer">
             <div class="footer-top container-fluid">
                 <div class="footer-left">
-                    <a href="#"><img class="footer__logo" src="{$THEME}_img/logo.svg" alt=""></a>
+                    <a href="#"><img class="footer__logo" src="{$THEME}_img/logo-custom.svg" alt=""></a>
                     <span class="footer__time">Пн-Пт: с 9:00 до 20:00<br>
                         Сб-Вс: с 10:00 до 16:00</span>
                     <span class="footer__location">105118, г. Москва, <br>

@@ -3,10 +3,13 @@
         <style>
         .cls-1 {
             fill: none;
-            stroke: #fff;
+            stroke: #ffff;
             stroke-linecap: round;
             stroke-linejoin: round;
             stroke-width: 2px;
+        }
+        .equipment-list__icon .cls-1 {
+            color: #fff !important
         }
         </style>
     </defs>
